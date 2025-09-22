@@ -1,0 +1,18 @@
+Task 3: Customer Segmentation Using RFM Analysis 
+Description:
+ Dataset (Recommended): Online Retail Dataset (UCI)
+ Use a sales dataset to analyze customer behavior based on:
+ Recency: How recently a customer made a purchase
+ Frequency: How often they made purchases
+ Monetary: How much money they spent
+ Assign scores to each customer using these three metrics
+ Group similar customers based on their scores
+ Suggest simple marketing ideas for each group (e.g. discounts for loyal buyers, re-engagement for inactive ones)
+ Tools & Libraries:
+ Python
+ Pandas
+ Covered Topics
+ Seaborn (or Excel)
+ Feature engineering  |   Segmentation logic   |   Customer analytics
+ Bonus:
+ Visualize RFM segments with heatmaps or bar charts
